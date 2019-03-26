@@ -1,2 +1,16 @@
 # jacks
-主要适用于学习技术使用
+
+这个项目中用到的技术：
+springboot + springmvc + spring + mybatis + shiro + redis + rabbit + mysql
+
+
+
+
+
+
+
+
+
+
+
+
